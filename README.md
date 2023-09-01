@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @ChrisKildunne
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+SKILLS:
+- Javascript
+- Express
+- React
+- Python
+- Django
+- Node.js
+- Mongoose/MongoDB
+- PostgreSQL
 
-<!---
-ChrisKildunne/ChrisKildunne is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+<a href="[doc:introduction](https://www.linkedin.com/in/christopher-kildunne/)https://www.linkedin.com/in/christopher-kildunne/" target="_blank">LinkedIn</a>
