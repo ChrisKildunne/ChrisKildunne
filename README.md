@@ -9,4 +9,4 @@ SKILLS:
 - PostgreSQL
 
 
-<a href="[doc:introduction](https://www.linkedin.com/in/christopher-kildunne/)https://www.linkedin.com/in/christopher-kildunne/" target="_blank">LinkedIn</a>
+<a href="https://www.linkedin.com/in/christopher-kildunne/" target="_blank">LinkedIn</a>
